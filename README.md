@@ -1,14 +1,18 @@
-<div align="center">
+<div align="left">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00e5ff&height=200&section=header&text=Driven%20by%20Curiosity,%20Defined%20by%20Code.&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+  <!-- Small top text -->
+  <p style="font-size: 14px; margin-bottom: 0px;">Hi, I'm</p>
 
-  <br/>
+  <!-- Big Name -->
+  <h1 style="font-size: 48px; margin-top: 0px; margin-bottom: 10px;">SHREYA RAY</h1>
 
-  <h3>Shreya Ray</h3>
-  <p>Computer Science and Engineering student passionate about building scalable applications and continuously learning new technologies</p>
+  <!-- Headline Tagline -->
+  <h2 style="font-size: 28px; margin-top: 0px; margin-bottom: 15px;">Driven by Curiosity, Defined by Code.</h2>
 
-  <br/>
+  <!-- Subtitle Paragraph -->
+  <p style="font-size: 18px; color: #8b949e; max-width: 750px;">
+    I'm a Computer Science and Engineering student, passionate about building scalable applications and continuously learning new technologies.
+  </p>
 
 </div>
 
@@ -16,24 +20,24 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### 📌 Current Focus & Learning Journey
+### 🌐 Connect with Me
 
-```text
-🚀 Building:     Strong fundamentals in Computer Science & Problem Solving
-📚 Learning:     Web Technologies (HTML, CSS, JS) & Python Development
-🎯 Goal:         Creating clean, structured projects and contributing to Open Source
-https://www.linkedin.com/in/shreya-ray-/
+<p align="left">
+  <a href="https://linkedin.com/in/shreya-ray-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
